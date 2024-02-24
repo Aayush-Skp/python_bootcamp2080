@@ -1,1 +1,4 @@
 https://www.kaggle.com/code/saurav9786/recommender-system-using-amazon-reviews/input?select=ratings_Electronics+%281%29.csv
+
+----Note----
+Download the csv file and add to same directory as this text file
